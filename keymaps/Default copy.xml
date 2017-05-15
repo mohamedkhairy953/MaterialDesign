@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift 0" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift 0" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift o" />
+  </action>
+</keymap>
