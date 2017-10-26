@@ -5,6 +5,7 @@
       <mapping pattern="spec" type="JSON" />
       <mapping pattern="ForecastFragment" type="PLAIN_TEXT" />
       <mapping pattern="spec2" type="PLAIN_TEXT" />
+      <mapping pattern="attr" type="XML" />
     </extensionMap>
   </component>
 </application>
