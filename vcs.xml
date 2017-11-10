@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/pharmacyProject/PharmacyIn2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mohamedkhairy953@bitbucket.org/nourahmed/omanproject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="S:\android\andriod\studio.projects" />
